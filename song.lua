@@ -78,8 +78,8 @@ function fukashigi()
   katarenai()
 end
 
---Shiritaki
-function shiritaki()
+--Shiritai
+function shiritai()
   D(0.1) A(0.1) G(0.1) F(0.5)
 end
 
@@ -100,6 +100,6 @@ daremo(); yomenaikarute()
 
 fukashigi()
 
-shiritaki(); dake()
+shiritai(); dake()
 
 --Thanks for listening!
